@@ -1,0 +1,94 @@
+#body {
+    background-color: rgb(240, 240, 240);
+}
+
+#h4 {
+    position: relative;
+    text-align: center;
+
+}
+
+#form {
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    width: 30em;
+    grid-column: span 2;
+    margin-top: 8%;
+    border-radius: 7px;
+}
+
+.form-control {
+    margin-top: 10px;
+    display: inline-block;
+    position: relative;
+    width: 10px;
+    
+}
+
+p.pDate {
+    margin-top: 2px;
+    margin-bottom: 5px;
+    font-size: 12px;
+}
+
+p.pGender {
+    margin-top: 2px;
+    margin-bottom: 5px;
+    font-size: 12px;
+}
+
+#dateInput {
+    margin-top: 2px;
+    margin-bottom: 3px;
+}
+
+/*div.RadioG {
+    position: relative;
+    display: inline-block;
+}*/
+
+.form-radio {
+    border-style: solid;
+    border-color: rgb(240, 240, 240);
+    border-radius: 10px;
+}
+
+.form-check-input {
+    position: relative;
+    display: inline-block;
+    margin-left: 40px;
+}
+
+#text {
+    text-align: center;
+    padding-left: 20px;
+}
+
+#btn-entrar {
+    margin-top: 15px;
+    margin-left: 180px;
+    margin-bottom: 5px;
+}
+
+.btn-link {
+    justify-content: center;
+    position: relative;
+    display: grid;
+}
+
+#btn-entrar{
+    text-align: center;
+    justify-content: center;
+    margin-left: 1px;
+}
+
+a.linksenha {
+    text-align: center;
+    justify-content: center;
+    margin-left: 1px;
+}
